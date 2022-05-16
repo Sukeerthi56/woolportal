@@ -1,0 +1,7 @@
+The extracted details are stored in a database which is considered more effective. Due to the time constraints - few things that
+I feel more effective could not be added, those are :
+
+1. A table in database for website, brand and item details instead of csv file
+2. A webpage for inputting data and displaying data would have been better
+3. Details for delivery duration were not found on the website , but new details for extraction can easily be included
+in the code anytime.
